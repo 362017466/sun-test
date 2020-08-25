@@ -1,0 +1,15 @@
+{
+    "name": "sun/su-test",
+    "description": "testss",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {
+        "php":"^7.1"
+     },
+    "autoload":{
+    	"files":[
+    		"src/helpers.php"
+    	]
+    }
+}
